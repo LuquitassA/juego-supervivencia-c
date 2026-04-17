@@ -57,6 +57,11 @@ Fue desarrollado como práctica para afianzar conceptos de programación en C y 
 
 ---
 
+## 🎮 Demo
+![Gameplay](demo.gif)
+
+---
+
 ## 📌 Aprendizajes
 
 Durante el desarrollo de este proyecto se trabajó en:
