@@ -1,35 +1,79 @@
 # Juego de Supervivencia en C
 
-Proyecto de juego 2D desarrollado en C utilizando la librería Raylib.
+Juego 2D desarrollado en lenguaje C utilizando la librería gráfica Raylib. El proyecto está enfocado en la implementación de lógica de juego, organización modular del código y manejo de entidades dentro de un entorno interactivo.
+
+---
 
 ## 🧩 Descripción
 
-El juego consiste en un entorno de supervivencia donde el jugador debe recolectar recursos, interactuar con el entorno y evitar enemigos.
+Este proyecto simula un entorno de supervivencia donde el jugador puede moverse por un mapa, interactuar con distintos elementos, recolectar recursos y enfrentarse a enemigos.
 
-## 🚀 Tecnologías utilizadas
+Fue desarrollado como práctica para afianzar conceptos de programación en C y estructura de proyectos de mayor escala.
+
+---
+
+## 🧠 Características
+
+- Sistema de jugador con movimiento e interacción
+- Enemigos con comportamiento básico
+- Recolección de recursos
+- Renderizado de mapa en tiempo real
+- Uso de sprites e imágenes
+- Organización modular del código en múltiples archivos
+
+---
+
+## 🛠 Tecnologías utilizadas
 
 - Lenguaje: C
 - Librería gráfica: Raylib
-- IDE: Visual Studio
+- Entorno de desarrollo: Visual Studio
+
+---
 
 ## 📁 Estructura del proyecto
 
-- `main.c`: punto de entrada
+- `main.c`: punto de entrada del programa
 - `jugador.*`: lógica del jugador
 - `enemigo.*`: comportamiento de enemigos
 - `mapa.*`: gestión del mapa
 - `recursos.*`: manejo de recursos
 - `utilidades.*`: funciones auxiliares
+- Archivos `.png`: recursos gráficos del juego
+
+---
 
 ## ▶️ Cómo ejecutar
 
-1. Instalar Raylib
-2. Compilar el proyecto desde Visual Studio
-3. Ejecutar el archivo generado
+1. Descargar e instalar Raylib desde:
+   https://www.raylib.com/
 
-## 📌 Estado
+2. Abrir el proyecto en Visual Studio  
+   o compilar manualmente con GCC (si se tiene configurado)
 
-Proyecto en desarrollo – orientado a práctica y aprendizaje de programación en C y desarrollo de videojuegos.
+3. Ejecutar el programa generado
+
+> Nota: Es necesario tener Raylib correctamente configurado en el entorno de desarrollo.
+
+---
+
+## 📌 Aprendizajes
+
+Durante el desarrollo de este proyecto se trabajó en:
+
+- Organización de código en múltiples módulos en C
+- Separación de responsabilidades entre componentes
+- Uso de librerías externas (Raylib)
+- Manejo de estructuras y lógica de juego
+- Desarrollo de aplicaciones interactivas
+
+---
+
+## 🎯 Objetivo
+
+El objetivo de este proyecto es servir como práctica y base para el desarrollo de habilidades en programación en C, especialmente en proyectos más complejos y estructurados.
+
+---
 
 ## 👨‍💻 Autor
 
