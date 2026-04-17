@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lucas\Downloads\raylib\buils\CMakeFiles\906467782c923cd2feffc6906644b2e7\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lucas\Downloads\raylib\src\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Lucas\Downloads\raylib\src\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\Lucas\Downloads\raylib\src\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\Lucas\Downloads\raylib\buils\raylib\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6A59AA3B-A20C-3B56-BAAD-8879B5EDEA98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3FF2E4C0-D425-33F6-BCC6-6AA539A4DF39}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

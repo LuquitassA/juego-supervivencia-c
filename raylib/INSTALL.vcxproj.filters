@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lucas\Downloads\raylib\buils\CMakeFiles\2f5a65454ccdb9712003c201a8132722\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6A59AA3B-A20C-3B56-BAAD-8879B5EDEA98}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

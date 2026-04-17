@@ -1,0 +1,14 @@
+﻿  enemigo.c
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\enemigo.c(25,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\enemigo.c(26,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\enemigo.c(28,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\enemigo.c(60,31): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\enemigo.c(138,47): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\enemigo.c(138,77): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  recursos.c
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\recursos.c(17,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\recursos.c(18,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\recursos.c(71,21): warning C4013: 'strcpy' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\recursos.c(59,27): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  JuegoSupervivenciaenC.vcxproj -> C:\Users\Lucas\Downloads\JuegoSupervivenciaenC\x64\Debug\JuegoSupervivenciaenC.exe

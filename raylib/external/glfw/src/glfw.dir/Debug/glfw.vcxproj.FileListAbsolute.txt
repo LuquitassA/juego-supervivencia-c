@@ -1,0 +1,1 @@
+C:\Users\Lucas\Downloads\raylib\buils\raylib\external\glfw\src\glfw.dir\Debug\glfw.lib
